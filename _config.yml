@@ -94,11 +94,11 @@ yat:
 #   - about.md
 
 # Page default value
- defaults:
-   home:
-     heading: "techforumbd"
-     subheading: "IT Service For Better Tomorrow"
-     banner: "Your image url"
+# defaults:
+#   home:
+ #    heading: "techforumbd"
+  #   subheading: "IT Service For Better Tomorrow"
+   #  banner: "Your image url"
 
 # Pagination setting
 # paginate: 5

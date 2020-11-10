@@ -98,7 +98,7 @@ yat:
    home:
      heading: "techforumbd"
      subheading: "IT Service For Better Tomorrow"
-#     banner: "Your image url"
+     banner: "Your image url"
 
 # Pagination setting
 # paginate: 5

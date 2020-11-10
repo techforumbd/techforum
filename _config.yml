@@ -4,7 +4,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 theme: gemspec
-title: techforum
+title: techforumbd
 email: info@techforumbd.com
 author: Ahsan Kabir
 copyright: Copyright © 2011-2020
@@ -94,10 +94,10 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+ defaults:
+   home:
+     heading: "techforumbd"
+     subheading: "IT Service For Better Tomorrow"
 #     banner: "Your image url"
 
 # Pagination setting

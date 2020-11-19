@@ -29,11 +29,11 @@ Navigation:
 - title: HOME
  url: http://techforumbdtech.wixsite.com/shop
 - title: BLOG
-url: /blog
+url: /techforum/blog
  - title: Archive
-url: /archive
+url: /techforum/archive
  - title: Categories
-url: /categories
+url: /techforum/categories
 # If you want more debug log, you can set true
 # debug: false
 

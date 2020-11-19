@@ -24,7 +24,16 @@ href: "http://techforumbdtech.wixsite.com/shop"
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 yat:
   date_format: "%b %d, %Y"
-
+  
+Navigation:
+- title: HOME
+ url: http://techforumbdtech.wixsite.com/shop
+- title: BLOG
+url: /blog
+ - title: Archive
+url: /archive
+ - title: Categories
+url: /categories
 # If you want more debug log, you can set true
 # debug: false
 

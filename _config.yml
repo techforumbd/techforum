@@ -3,7 +3,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 theme: gemspec
-title: Home
+title: techforumbd
 email: info@techforumbd.com
 author: Ahsan Kabir
 baseurl: "/techforum/" 
@@ -13,7 +13,7 @@ yat:
   
   navbar-links:
   Resources:
-    - Home: "http://techforumbdtech.wixsite.com/shop"
+    - Home: "https://techforumbdtech.wixsite.com/shop"
     - Blog: "https://techforumbd.github.io/techforum/blog"
     - Archives: "https://techforumbd.github.io/techforum/archives"
     - Category: "https://techforumbd.github.io/techforum/category"

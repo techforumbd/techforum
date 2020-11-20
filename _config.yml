@@ -16,7 +16,7 @@ yat:
     - Home: "https://techforumbdtech.wixsite.com/shop"
     - Blog: "https://techforumbd.github.io/techforum/blog"
     - Archives: "https://techforumbd.github.io/techforum/archives"
-    - Category: "https://techforumbd.github.io/techforum/category"
+    - Category: "https://techforumbd.github.io/techforum/categories"
   
 
 # If you want more debug log, you can set true

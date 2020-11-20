@@ -3,7 +3,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 theme: gemspec
-title: Homebd
+title: Home
 url: http://techforumbdtech.wixsite.com/shop
 email: info@techforumbd.com
 author: Ahsan Kabir

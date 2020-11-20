@@ -7,8 +7,7 @@ title: Home
 email: info@techforumbd.com
 author: Ahsan Kabir
 copyright: Copyright © 2011-2020
-baseurl: "/techforum/" # the subpath of your site, e.g. /blog
-# the favicon for your site
+baseurl: "/techforum/" 
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this

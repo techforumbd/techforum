@@ -4,6 +4,7 @@
 # in the templates via {{ site.myvariable }}.
 theme: gemspec
 title: Homebd
+url: http://techforumbdtech.wixsite.com/shop
 email: info@techforumbd.com
 author: Ahsan Kabir
 copyright: Copyright © 2011-2020

@@ -11,8 +11,7 @@ baseurl: "/techforum/"
 yat:
   date_format: "%b %d, %Y"
   
- title: home
-  redirect_to: "https://techforumbdtech.wixsite.com/shop"
+  redirect_to: https://techforumbdtech.wixsite.com/shop
   
 
 # If you want more debug log, you can set true

@@ -11,11 +11,8 @@ baseurl: "/techforum/"
 yat:
   date_format: "%b %d, %Y"
   
-  navbar-links:
-     home: "https://techforumbdtech.wixsite.com/shop"
-     blog: "https://techforumbd.github.io/techforum/blog"
-     archives: "https://techforumbd.github.io/techforum/archives"
-     categories: "https://techforumbd.github.io/techforum/categories"
+ title: home
+  redirect_to: "https://techforumbdtech.wixsite.com/shop"
   
 
 # If you want more debug log, you can set true

@@ -12,10 +12,10 @@ yat:
   date_format: "%b %d, %Y"
   
   navbar-links:
-     Home: "https://techforumbdtech.wixsite.com/shop"
-     Blog: "https://techforumbd.github.io/techforum/blog"
-     Archives: "https://techforumbd.github.io/techforum/archives"
-     Category: "https://techforumbd.github.io/techforum/categories"
+     home: "https://techforumbdtech.wixsite.com/shop"
+     blog: "https://techforumbd.github.io/techforum/blog"
+     archives: "https://techforumbd.github.io/techforum/archives"
+     categories: "https://techforumbd.github.io/techforum/categories"
   
 
 # If you want more debug log, you can set true

@@ -11,7 +11,9 @@ baseurl: "/techforum/"
 yat:
   date_format: "%b %d, %Y"
   
-  redirect_to: https://techforumbdtech.wixsite.com/shop
+ _layout:
+ title: Introduction
+  url: introduction.html
   
 
 # If you want more debug log, you can set true
@@ -78,12 +80,12 @@ yat:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
-#   - index.html
-#   - archives.html
-#   - categories.html
-#   - tags.html
-#   - about.md
+header_pages:
+   - home.html
+   - archives.html
+   - categories.html
+   - blog.html
+   
 
 # Page default value
 # defaults:

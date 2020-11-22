@@ -2,3 +2,4 @@
 
 source "https://rubygems.org"
 gemspec
+gemspec  'jekyll-redirect-to'

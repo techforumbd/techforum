@@ -11,11 +11,7 @@ baseurl: "/techforum/"
 yat:
   date_format: "%b %d, %Y"
   
- _layout:
- title: Introduction
-  url: introduction.html
-  
-
+ 
 # If you want more debug log, you can set true
 # debug: false
 
@@ -88,11 +84,11 @@ header_pages:
    
 
 # Page default value
-# defaults:
-#   home:
- #    heading: "techforumbd"
-  #   subheading: "IT Service For Better Tomorrow"
-   #  banner: "Your image url"
+ defaults:
+   home:
+     title: "home"
+     url: "https://techforumbdtech.wixsite.com/shop"
+    
 
 # Pagination setting
 # paginate: 5

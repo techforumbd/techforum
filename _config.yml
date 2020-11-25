@@ -84,12 +84,7 @@ header_pages:
    -about.html
    
 
-# Page default value
- defaults:
-   home:
-     title: "home"
-     url: "https://techforumbdtech.wixsite.com/shop"
-    
+# Page default value    
 
 # Pagination setting
 # paginate: 5
